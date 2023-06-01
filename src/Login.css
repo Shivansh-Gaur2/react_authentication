@@ -1,0 +1,14 @@
+input{
+    margin-top: 20px;
+    width: 100%;
+}
+.row{
+    background-color: aqua;
+    position: absolute;
+    width: 50%;
+    height: 200px;
+    display: flex;
+    justify-self: center;
+    top:  30vh;
+    left: 25vw;
+}
